@@ -17,3 +17,21 @@ param()
     is evaluated, with the final value of the ScriptProperty being resolved on the completion of the
     script block.
 #>
+Describe '[PSCustomObject]' {
+
+    It 'can have arbitrary properties' {
+
+    }
+
+    It 'can be built in multiple ways' {
+
+    }
+
+    It 'can have ScriptProperties' {
+
+    }
+
+    It 'can be used to organise data' {
+
+    }
+}
